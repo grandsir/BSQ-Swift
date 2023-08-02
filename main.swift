@@ -82,7 +82,6 @@ oo...o..
         }
       }
     }
-
     
     if maxSize > 0 {
       return Square(topLeft: maxPoint, size: maxSize)
